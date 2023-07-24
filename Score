@@ -1,0 +1,5 @@
+score=int(input("Score Percentage"))
+if(score>=70):
+    print("you are not eligible")
+else:
+    print("You are not eligible")
