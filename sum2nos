@@ -1,0 +1,12 @@
+def main():
+    # Read two integers from STDIN
+    a = int(input())
+    b = int(input())
+    
+    # Calculate and print the required lines
+    print(a + b)  # Sum of the two numbers
+    print(a - b)  # Difference of the two numbers
+    print(a * b)  # Product of the two numbers
+
+if __name__ == "__main__":
+    main()
