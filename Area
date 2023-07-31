@@ -1,0 +1,4 @@
+length=45
+width=76
+area = length * width
+print('The Area of the given rectangle is',area)
