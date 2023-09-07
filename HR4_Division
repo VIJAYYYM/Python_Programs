@@ -1,0 +1,11 @@
+# Read two integers a and b from STDIN
+a = int(input())
+b = int(input())
+
+# Calculate and print the result of integer division (a//b)
+integer_division_result = a // b
+print(integer_division_result)
+
+# Calculate and print the result of float division (a / b)
+float_division_result = a / b
+print(float_division_result)
