@@ -1,0 +1,15 @@
+# Read two integers a and b from STDIN
+a = int(input())
+b = int(input())
+
+# Calculate and print the sum
+sum_result = a + b
+print(sum_result)
+
+# Calculate and print the difference (first - second)
+difference_result = a - b
+print(difference_result)
+
+# Calculate and print the product
+product_result = a * b
+print(product_result)
