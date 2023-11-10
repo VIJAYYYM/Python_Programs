@@ -1,0 +1,11 @@
+# Input details
+name = input()
+age = int(input())
+cgpa = float(input())
+grade = input()
+
+# Output details with rounded CGPA
+print("Name:", name)
+print("Age:", age)
+print("CGPA: {:.2f}".format(round(cgpa, 2)))  # Round CGPA to 2 decimal places
+print("Grade:", grade)
