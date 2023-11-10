@@ -1,0 +1,5 @@
+# Get character input
+character = input()
+
+# Print ASCII value
+print(ord(character))
