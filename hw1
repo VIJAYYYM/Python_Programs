@@ -1,0 +1,2 @@
+# Python program to print "Hello World" with a tab in between and repeat it
+print("Hello\tWorld\tHello\tWorld")
