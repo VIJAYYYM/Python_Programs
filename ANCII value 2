@@ -1,0 +1,5 @@
+# Get ASCII value input
+ascii_value = int(input())
+
+# Print equivalent character
+print(chr(ascii_value))
