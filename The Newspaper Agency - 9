@@ -1,0 +1,10 @@
+# Input values
+a = int(input())
+b = int(input())
+c = int(input())
+
+# Calculate profit
+profit = (a * b) - (a * c) - 100
+
+# Print the result
+print(profit)
