@@ -1,0 +1,12 @@
+# Input the length and breadth of the ground
+length = int(input())
+breadth = int(input())
+
+# Calculate the required length of the rope
+perimeter = 2 * (length + breadth)
+# Calculate the required area of the carpet
+area = length * breadth
+
+# Print the results
+print("The required length is {} m".format(perimeter))
+print("The required area of carpet is {} sqm".format(area))
